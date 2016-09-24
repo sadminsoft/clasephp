@@ -1,0 +1,50 @@
+.color{
+	text-align: center;
+	background-color: #190707;
+	color: #F7F8E0;
+}
+
+.color2{
+	text-align: center;
+	background-color: #BDBDBD;
+	color: #000000;
+}
+.sitio{
+	text-align: center;
+}
+
+.fillimg{
+	background-color: #A9D0F5;
+	box-shadow: 1px 0px 17px 0px #000000;
+}
+
+#maqueta{
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: #58ACFA;
+}
+
+.imgalt{
+	height: 15%;
+	width: 35%;
+}
+
+.fillimg:hover{
+	box-shadow: 1px 0px 17px 0px #F4FA58;
+}
+
+nav{
+	background-color: black;
+}
+
+a{
+	width: 25px;
+	height: 35px;
+	color: white;
+}
+
+h4{
+	text-align: center;
+	background-color: #58ACFA;
+}
+
